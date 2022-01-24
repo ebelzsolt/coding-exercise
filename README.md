@@ -33,7 +33,7 @@
 {"George", "2021-01-02"} -> 250
 ```
 
-### Input for the additional case
+### Input for the extra case
 
 ```
 [
@@ -46,7 +46,7 @@
 ]
 ```
 
-### Output for the additional case
+### Output for the extra case
 
 ```
 {"Steve",  "2021-01-01"} -> 300
