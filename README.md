@@ -8,7 +8,7 @@
 - create a class for the map's key to satisfy the criteria above
 - ordering and formatting is not important
 
-## Additional tasks
+## Extra task
 
 - when a user is not found, collect all daily expenses under the username "Other"
 
